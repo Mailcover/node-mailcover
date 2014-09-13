@@ -1,0 +1,32 @@
+{
+  "name": "mailcover",
+  "description": "Email validation via Mailcover API",
+  "version": "0.1.4",
+  "homepage": "https://Mailcover.com/",
+  "keywords": [
+    "email",
+    "validation",
+    "dea"
+  ],
+  "author": "Bitaru <aiir.diir@gmail.com>",
+  "main": "mailcover.js",
+  "bugs": {
+    "url": "http://github.com/Mailcover/node-mailcover/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Mailcover/node-mailcover.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Mailcover/node-mailcover/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {},
+  "scripts": {},
+  "license": "MIT"
+}
